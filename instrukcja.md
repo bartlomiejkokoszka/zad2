@@ -140,3 +140,26 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 [odnośnik do kolejnego zasobu] [1]
 
 [1] : http://google.com
+
+
+
+### Obrazki
+
+![alt text] (https://server.com/images/icon48.png "Logo 1") – obrazek z zasobów
+internetowych
+![] (logo.png) – obraz z lokalnych zasobów
+
+
+
+### Kod źródłowy dla różnych języków programowania
+
+![Obrazek 8](Obrazek8.png "obrazek 8")
+
+
+
+### Tworzenie spisu treści na podstawie nagłówków
+
+![Obrazek 9](Obrazek9.png "obrazek 9")
+
+
+
