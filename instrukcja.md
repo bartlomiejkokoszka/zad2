@@ -95,3 +95,48 @@ Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składn
 * GitHub Flavored Markdown (GFM),
 * Markdown Extra.
 
+## Podstawy składni
+
+Podany link: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]() zawiera opis podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki opis w języku polskim.
+
+### Definiowanie nagłówków
+
+W tym celu używamy znaku kratki
+
+Lewe okno zawiera kod źródłowy - prawe - podgląd przetworzonego tekstu
+
+![Obrazek 4](Obrazek4.png "obrazek 4")
+
+
+
+### Definiowanie list
+
+![Obrazek 5](Obrazek5.png "obrazek 5")
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
+
+Listy nienumerowane definiujemy znakami: *,+,-
+
+
+
+### Wyróżnianie tekstu
+
+![Obrazek 6](Obrazek6.png "obrazek 6")
+
+
+
+### Tabele
+
+![Obrazek 7](Obrazek7.png "obrazek 7")
+
+Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku  dwukropka ":" .
+
+### Odnośniki do zasobów
+
+[odnośnik do zasobów] ([www.gazeta.pl]())
+
+[odnośnik do pliku] (LICENSE.md)
+
+[odnośnik do kolejnego zasobu] [1]
+
+[1] : http://google.com
